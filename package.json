@@ -1,0 +1,22 @@
+{
+  "name": "@servicebus/logger",
+  "version": "0.0.0-development",
+  "description": "logging middleware",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/servicebus/logger.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/servicebus/logger/issues"
+  },
+  "homepage": "https://github.com/servicebus/logger#readme",
+  "dependencies": {
+    "debug": "^4.1.1"
+  }
+}
