@@ -4,7 +4,7 @@
   "description": "logging middleware",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Warning: no test specified\" && exit 0"
+    "test": "jest --coverage"
   },
   "repository": {
     "type": "git",
@@ -17,6 +17,9 @@
   },
   "homepage": "https://github.com/servicebus/logger#readme",
   "dependencies": {
-    "debug": "^4.1.1"
+    "debug": "4.1.1"
+  },
+  "devDependencies": {
+    "jest": "26.0.1"
   }
 }
