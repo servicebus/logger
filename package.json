@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/servicebus/logger#readme",
   "dependencies": {
-    "debug": "4.1.1"
+    "debug": "4.2.0"
   },
   "devDependencies": {
     "jest": "26.4.2"
